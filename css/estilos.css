@@ -1,0 +1,75 @@
+
+:root {
+  --main-color: #ec4325;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  header {
+    text-align: center;
+  }
+  header, section, footer {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 960px;
+  }
+  
+  #experiencia {
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+ 
+  
+  #formacion-reglada {
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  
+  body {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  #formacion-complementaria {
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    border-style: groove ;
+    border-color: #ec4325;
+
+  }
+  
+  #idiomas {
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  header, section, footer {
+    margin: 20px auto;
+    margin-bottom: 20px;
+    width: 80%;
+    max-width: 960px;
+  }
+ 
+  #informatica {
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: var(--main-color);
+    color: #fff;
+  }
+
+ 
